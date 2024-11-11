@@ -1,3 +1,3 @@
 # college1
-this is my first repository.
+This is my git  first repository.
 Author- Aaditya Singh
